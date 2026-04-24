@@ -1,0 +1,2 @@
+requests==2.33.1
+# standard-telnetlib==3.13.0
